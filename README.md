@@ -1,6 +1,6 @@
 # Linux Gym Docker Image Setup Guide
 
-This guide will help you set up and use a Docker container with a Linux environment (Ubuntu) for practice. The container will have persistent storage, allowing you to save your work and continue where you left off.
+This guide will help you set up and use a Docker container with a Debian-based Linux environment for practice. The container will have persistent storage, allowing you to save your work and continue where you left off.
 
 ## Prerequisites
 
